@@ -1,6 +1,5 @@
 # Decision Tree Tutorial: 
-Understanding Under-fitting and Over-fitting in Decision Trees
-The Role of Tree Depth
+# Understanding Under-fitting and Over-fitting in Decision Trees. The Role of Tree Depth
 
 ## Overview
 
