@@ -1,4 +1,7 @@
-# Decision Tree Tutorial: Effect of Tree Depth on Overfitting
+# Decision Tree Tutorial: 
+Understanding Under-fitting and Over-fitting in Decision Trees
+The Role of Tree Depth
+
 ## Overview
 
 This project explores how the depth of a Decision Tree affects model performance, specifically focusing on underfitting and overfitting.
