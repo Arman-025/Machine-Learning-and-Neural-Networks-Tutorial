@@ -13,7 +13,7 @@ The tutorial demonstrates how increasing tree depth impacts training and testing
 - Identify optimal tree depth for best generalisation
 ---
 ## Dataset
-The project uses the :contentReference[oaicite:0]{index=0}.
+The project uses the Breast Cancer Wisconsin Diagnostic Dataset
 - Binary classification problem:
   - Benign
   - Malignant
@@ -30,8 +30,8 @@ No external dataset download is required.
 ---
 ##  Project Structure
 
-- `decision_tree_tutorial.ipynb` → Main notebook  
-- `report.pdf` → Tutorial document  
+- `Notebook.ipynb` → Main notebook  
+- `Decision Trees Tutorial.pdf` → Tutorial document  
 - `README.md` → Project description  
 - `LICENSE` → MIT License  
 
@@ -43,11 +43,20 @@ No external dataset download is required.
 - Optimal depth balances performance and generalisation
 ---
 ## References
-- :contentReference[oaicite:1]{index=1} Documentation  
-- :contentReference[oaicite:2]{index=2}  
-- *An Introduction to Statistical Learning*  
-- :contentReference[oaicite:3]{index=3}  
-- University Lecture Materials  
+## 📚 References
+
+1. Scikit-learn. *Decision Trees*. https://scikit-learn.org/stable/modules/tree.html  
+
+2. Breast Cancer Wisconsin Diagnostic Dataset.  
+https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic  
+
+3. James, G., Witten, D., Hastie, T., Tibshirani, R. (2013).  
+*An Introduction to Statistical Learning*. https://www.statlearning.com/  
+
+4. StatQuest. *Decision Trees Clearly Explained*.  
+https://www.youtube.com/watch?v=7VeUPuFGJHk  
+
+5. University Lecture Materials. Machine Learning and Neural Networks Module.
 ---
 ## 📜 License
 This project is licensed under the MIT License.
